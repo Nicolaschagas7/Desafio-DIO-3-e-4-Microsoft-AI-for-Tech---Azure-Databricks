@@ -4,7 +4,7 @@ Este repositório reúne a entrega dos **desafios 3 e 4** do Bootcamp da DIO, mi
 
 ---
 
-## Desafio 03 - Criação de Cluster no Databricks e Manipulação de Dados com Pandas
+## Desafio 03 - Controle e Versionamento de Código no Notebook da Azure
 
 ### Contexto do Desafio
 
@@ -44,7 +44,7 @@ Segui os mesmos passos do exercício, replicando o processo com sucesso. No enta
 
 ---
 
-## Desafio 04 - Integração entre Azure DevOps e Azure Data Factory
+## Desafio 04 - Github e Azure Devops para Versionamento e Backups
 
 ### Contexto do Desafio
 
